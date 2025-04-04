@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi
 additional feature
 
+=======
+just some new feature
+>>>>>>> newbranch
