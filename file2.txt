@@ -1,2 +1,1 @@
-hello
-bug fixed
+new feature in file2.txt newbranch
